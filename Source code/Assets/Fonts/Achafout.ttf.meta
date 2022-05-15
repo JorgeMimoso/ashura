@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 06f1b2cedaca51240b43a0c22e57bedc
+timeCreated: 1509918243
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A Charming Font Outline
+  fontNames:
+  - A Charming Font Outline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
